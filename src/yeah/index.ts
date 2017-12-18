@@ -1,0 +1,1 @@
+export { YeahComponent }    from './yeah.component';

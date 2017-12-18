@@ -1,0 +1,28 @@
+{
+  "name": "angular4-yeah",
+  "version": "0.0.2",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build"
+  },
+  "keywords": [
+    "angular4",
+    "yeah"
+  ],
+  "author": "Vincent Perrin <vpcom01@gmail.com> (http://vincentperrin.com)",
+  "private": false,
+  "dependencies": {
+    "@angular/common": "^4.2.4",
+    "@angular/compiler": "^4.2.4",
+    "@angular/core": "^4.2.4",
+    "core-js": "^2.4.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "1.4.8",
+    "@angular/compiler-cli": "^4.2.4",
+    "@angular/language-service": "^4.2.4",
+    "typescript": "~2.3.3"
+  }
+}

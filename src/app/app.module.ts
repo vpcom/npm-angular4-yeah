@@ -3,9 +3,13 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
+// local import { YeahComponent } from '../yeah/index';
+import { YeahComponent } from 'angular4-yeah'; // npm
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    YeahComponent
   ],
   imports: [
     BrowserModule
